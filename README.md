@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=RantuBangal&label=Profile%20views&color=0e75b6&style=flat" alt="rantu-bangal"/>
 </p>
 
-![Header Image](https://github.com/RantuBangal/RantuBangal/blob/main/assets/github-header-image.png?raw=true)
+<!-- ![Header Image](https://github.com/RantuBangal/RantuBangal/blob/main/assets/github-header-image.png?raw=true) -->
 <h1 align="center">Hi 👋, I'm Rantu Bangal</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
