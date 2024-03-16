@@ -15,7 +15,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: **rantubangal996@gmail.com**
 - 👨‍💻 All of my projects are available at [Portfolio](https://RantuBangal.github.io/)
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1O2Fw9z8aJQMEU3AP52NsKT5N8NnEaSAl/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/125BcwH1QsnrRzi9EGeaQ9C8Mn76B06WO/view?usp=sharing)
 
 <br/>
 <h3 align="center">Connect with me:</h3>
